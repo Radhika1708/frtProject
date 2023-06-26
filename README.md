@@ -12,5 +12,5 @@ Deployment steps-
 5) Opened the blob storage & uploaded my files there
    <img width="469" alt="image" src="https://github.com/Radhika1708/frtProject/assets/109476804/7c405eeb-ac06-4c7d-a9ca-b1400494e864">
 
-video url - 
+video url - https://veed.io/view/244d4f09-7745-4cea-a3c0-5e92e2d095f2
 
